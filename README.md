@@ -29,4 +29,4 @@ WARNING⚠️: This isn't a Google account generator.
 
 
 
-![Total Visiter](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_color=red&right_color=green&left_text=Hello%20Visitors)
+![Total Visiter]([https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_color=red&right_color=green&left_text=Hello%20Visitors](https://camo.githubusercontent.com/2f631e6ce04a40fc012a2ac072df95fc3561e2f458985d36a7ea520afe566c58/68747470733a2f2f76697369746f722d62616467652e6c616f62692e6963752f62616467653f706167655f69643d6a77656e6a69616e2e76697369746f722d6261646765)https://camo.githubusercontent.com/2f631e6ce04a40fc012a2ac072df95fc3561e2f458985d36a7ea520afe566c58/68747470733a2f2f76697369746f722d62616467652e6c616f62692e6963752f62616467653f706167655f69643d6a77656e6a69616e2e76697369746f722d6261646765)
